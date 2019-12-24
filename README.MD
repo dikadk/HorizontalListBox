@@ -1,3 +1,3 @@
 Custom Viewport with items snapping (junky and laggy)
 
-HorizontalListBox created based on standart juce_ListBox
+HorizontalListBox created based on juce_ListBox
